@@ -1,6 +1,6 @@
 # Simple Ceasar Cipher
 
-This repo hosts a simple ceasar cipher written in Ruby that works with any offset. <br/> Download the cipher in ccipher.rb.
+A simple ceasar cipher written in Ruby that works with any offset. <br/> Download the cipher in ccipher.rb.
 
 **Examples**<br/>
 Plaintext: "Hello, world!"<br/>
